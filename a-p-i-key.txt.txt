@@ -1,4 +1,4 @@
-d-tt.nl API_KEY: RM65sYmIyVqj8TNF1paEn_zwH0OeA2cv
+d-tt.nl API_KEY: RM65sYmIy******
 
 
-Google Maps API_KEY : AIzaSyBODx0W8kvm0-bPYopmrHsmMpN41b1PvrI
+Google Maps API_KEY : AIzaSyBODx0W8kv******
